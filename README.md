@@ -17,7 +17,7 @@
   
 Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.  
   
-![alt text]()  
+![alt text](https://github.com/AleksandrMihajlov/SDB-11-02/blob/main/2.png)  
   
 **Задание 3. Удаление по TTL в Memcached**  
   
@@ -25,7 +25,7 @@
   
 Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.  
   
-![alt text]()  
+![alt text](https://github.com/AleksandrMihajlov/SDB-11-02/blob/main/3.png)  
   
 **Задание 4. Запись данных в Redis**  
   
@@ -33,4 +33,4 @@
   
 Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.  
   
-![alt text]()
+![alt text](https://github.com/AleksandrMihajlov/SDB-11-02/blob/main/4.png)
